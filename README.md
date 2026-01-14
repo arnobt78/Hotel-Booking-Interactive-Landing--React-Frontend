@@ -1,4 +1,4 @@
-# Hotel Booking 3 Landing Page - React, Vite, TailwindCSS Fundamental Frontend Project
+# Hotel Booking 2 Landing Page - React, Vite, TailwindCSS Fundamental Frontend Project
 
 A modern, responsive hotel booking frontend website built with React, Vite, TailwindCSS. This project demonstrates core React concepts (components, context API, hooks), advanced UI/UX with custom components, a mobile-friendly layout, and integration with third-party React libraries. It is designed both as a learning resource and a practical template for static hotel or accommodation websites.
 
